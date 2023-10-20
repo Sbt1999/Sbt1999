@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sbt1999
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m Shobhit Katiyar
+- 🌱 I am learning Data Structure and Algorithms
 
 <!---
 Sbt1999/Sbt1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
